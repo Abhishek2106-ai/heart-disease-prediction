@@ -1,7 +1,17 @@
 # Heart Disease Prediction
 
-A machine learning project that predicts the likelihood
-of heart disease using a KNN classification model.
+This project develops a machine learning classification model
+to predict the likelihood of heart disease based on patient
+clinical features.
+
+Multiple classification algorithms were trained and compared,
+including Logistic Regression, KNN, Naive Bayes, Decision Tree,
+and SVM.
+
+Among the tested models, KNN achieved the best performance with
+an accuracy of 88.59% and an F1 score of 89.86%. The trained KNN
+model was then integrated into an interactive Streamlit web
+application.
 
 ## Live Demo
 
