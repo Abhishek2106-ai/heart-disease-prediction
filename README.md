@@ -10,6 +10,8 @@ of heart disease using a KNN classification model.
 - NumPy
 - Scikit-learn
 - Streamlit
+- Seaborn
+- Matplotlib
 
 ## Project Workflow
 
