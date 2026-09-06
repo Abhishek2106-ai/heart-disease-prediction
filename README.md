@@ -3,6 +3,10 @@
 A machine learning project that predicts the likelihood
 of heart disease using a KNN classification model.
 
+## Live Demo
+
+https://heart-disease-prediction-ml-2106.streamlit.app
+
 ## Technologies Used
 
 - Python
@@ -24,10 +28,6 @@ of heart disease using a KNN classification model.
 
 K-Nearest Neighbors (KNN)
 
-## Streamlit Application
-
-The application allows users to enter patient-related
-features and receive a model prediction.
 
 ## Disclaimer
 
