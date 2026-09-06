@@ -24,6 +24,29 @@ https://heart-disease-prediction-ml-2106.streamlit.app
 5. Model evaluation
 6. Streamlit application
 
+## Model Performance
+
+Several classification algorithms were trained and evaluated
+to identify the best-performing model.
+
+| Model | Accuracy | F1 Score |
+|---|---:|---:|
+| Logistic Regression | 87.50% | 88.78% |
+| **KNN** | **88.59%** | **89.86%** |
+| Naive Bayes | 86.96% | 87.88% |
+| Decision Tree | 76.63% | 77.72% |
+| SVM | 86.41% | 88.04% |
+
+### Best Model
+
+The **K-Nearest Neighbors (KNN)** model achieved the highest
+performance among the tested models, with:
+
+- **Accuracy:** 88.59%
+- **F1 Score:** 89.86%
+
+Therefore, KNN was selected for the final Streamlit application.
+
 ## Model
 
 K-Nearest Neighbors (KNN)
