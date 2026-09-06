@@ -37,6 +37,7 @@ not intended for medical diagnosis.
 ## Project Structure
 
 
+```text
 Heart-Disease-Prediction/
 │
 ├── data/
@@ -44,7 +45,6 @@ Heart-Disease-Prediction/
 │
 ├── app.py
 ├── HeartDisease.ipynb
-│
 ├── KNN_heart_model.pkl
 ├── heart_scaler.pkl
 ├── heart_columns.pkl
@@ -52,3 +52,4 @@ Heart-Disease-Prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
